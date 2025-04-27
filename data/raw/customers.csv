@@ -1,0 +1,101 @@
+customer_id,gender,age,province,signup_date
+C0001,Male,46,Chonburi,2023-12-29
+C0002,Male,26,Nakhon Ratchasima,2023-11-02
+C0003,Male,43,Phuket,2021-10-07
+C0004,Male,20,Chiang Mai,2023-08-30
+C0005,Female,46,Chonburi,2021-05-23
+C0006,Male,25,Phuket,2022-02-03
+C0007,Male,26,Chonburi,2021-01-19
+C0008,Female,35,Bangkok,2022-09-29
+C0009,Female,41,Chonburi,2022-02-14
+C0010,Female,33,Phuket,2023-10-28
+C0011,Male,32,Nakhon Ratchasima,2022-02-12
+C0012,Male,22,Chonburi,2023-05-28
+C0013,Female,18,Phuket,2023-07-15
+C0014,Female,28,Bangkok,2022-03-24
+C0015,Female,27,Chiang Mai,2023-01-06
+C0016,Female,35,Bangkok,2022-07-26
+C0017,Female,43,Bangkok,2023-12-08
+C0018,Female,47,Khon Kaen,2022-11-09
+C0019,Female,43,Khon Kaen,2022-04-28
+C0020,Female,29,Phuket,2023-05-10
+C0021,Male,38,Khon Kaen,2023-07-17
+C0022,Female,39,Khon Kaen,2022-08-12
+C0023,Male,18,Chiang Mai,2021-03-13
+C0024,Female,37,Nakhon Ratchasima,2021-10-24
+C0025,Male,37,Phuket,2023-11-08
+C0026,Male,20,Bangkok,2023-08-07
+C0027,Female,41,Nakhon Ratchasima,2022-04-25
+C0028,Female,35,Chonburi,2021-07-06
+C0029,Female,50,Phuket,2022-02-05
+C0030,Female,41,Phuket,2022-03-31
+C0031,Male,39,Nakhon Ratchasima,2023-11-19
+C0032,Male,35,Chonburi,2023-12-24
+C0033,Male,34,Khon Kaen,2022-01-16
+C0034,Male,37,Phuket,2023-04-20
+C0035,Female,46,Khon Kaen,2022-04-28
+C0036,Male,39,Chonburi,2021-04-26
+C0037,Female,29,Bangkok,2023-06-17
+C0038,Female,23,Phuket,2022-01-17
+C0039,Male,18,Bangkok,2023-02-11
+C0040,Female,36,Phuket,2021-11-22
+C0041,Female,38,Chiang Mai,2022-11-07
+C0042,Male,29,Bangkok,2022-06-02
+C0043,Male,20,Nakhon Ratchasima,2021-03-14
+C0044,Male,28,Chiang Mai,2022-07-13
+C0045,Male,49,Nakhon Ratchasima,2023-03-19
+C0046,Male,39,Chonburi,2022-12-16
+C0047,Female,37,Nakhon Ratchasima,2022-11-15
+C0048,Male,19,Nakhon Ratchasima,2021-12-04
+C0049,Female,39,Bangkok,2021-09-18
+C0050,Male,38,Khon Kaen,2021-11-01
+C0051,Female,40,Khon Kaen,2021-08-29
+C0052,Female,29,Bangkok,2021-10-25
+C0053,Female,19,Chiang Mai,2022-10-11
+C0054,Female,38,Nakhon Ratchasima,2021-01-16
+C0055,Male,20,Khon Kaen,2023-05-31
+C0056,Male,40,Khon Kaen,2022-12-19
+C0057,Female,49,Nakhon Ratchasima,2021-07-23
+C0058,Male,25,Phuket,2022-10-26
+C0059,Female,43,Phuket,2022-04-10
+C0060,Male,25,Phuket,2021-10-14
+C0061,Female,19,Khon Kaen,2023-06-23
+C0062,Female,23,Nakhon Ratchasima,2023-07-09
+C0063,Male,43,Chiang Mai,2023-09-23
+C0064,Male,46,Chiang Mai,2022-02-18
+C0065,Male,23,Chonburi,2023-12-06
+C0066,Female,18,Nakhon Ratchasima,2023-03-29
+C0067,Female,35,Nakhon Ratchasima,2022-12-26
+C0068,Female,41,Chonburi,2022-06-05
+C0069,Male,26,Chiang Mai,2021-08-16
+C0070,Female,47,Chiang Mai,2021-09-17
+C0071,Male,48,Khon Kaen,2021-09-27
+C0072,Male,43,Nakhon Ratchasima,2022-04-15
+C0073,Male,21,Chiang Mai,2021-04-28
+C0074,Male,21,Phuket,2023-10-08
+C0075,Female,33,Chonburi,2021-12-30
+C0076,Female,23,Bangkok,2021-03-10
+C0077,Male,48,Khon Kaen,2022-01-27
+C0078,Female,33,Nakhon Ratchasima,2022-08-30
+C0079,Female,45,Chiang Mai,2023-09-25
+C0080,Female,27,Chonburi,2023-09-11
+C0081,Male,44,Khon Kaen,2022-03-22
+C0082,Male,19,Chiang Mai,2023-04-07
+C0083,Female,27,Phuket,2022-03-25
+C0084,Male,28,Bangkok,2023-04-03
+C0085,Male,24,Chonburi,2023-05-08
+C0086,Female,38,Khon Kaen,2023-05-18
+C0087,Male,23,Bangkok,2023-05-07
+C0088,Female,30,Chonburi,2023-11-17
+C0089,Female,39,Phuket,2023-08-18
+C0090,Female,25,Nakhon Ratchasima,2023-01-22
+C0091,Male,20,Nakhon Ratchasima,2023-08-13
+C0092,Male,23,Chonburi,2022-10-05
+C0093,Female,44,Bangkok,2021-03-22
+C0094,Male,29,Chonburi,2022-11-28
+C0095,Male,18,Chonburi,2022-12-12
+C0096,Male,37,Khon Kaen,2023-05-23
+C0097,Female,37,Chiang Mai,2023-03-07
+C0098,Male,25,Nakhon Ratchasima,2022-02-24
+C0099,Female,45,Nakhon Ratchasima,2023-11-13
+C0100,Male,24,Bangkok,2021-06-29
